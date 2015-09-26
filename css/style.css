@@ -124,14 +124,14 @@ a:visited {
 
 }
 #slide1 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide1 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -145,7 +145,7 @@ a:visited {
 	padding:5px 0;
 }
 #slide2 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
@@ -153,7 +153,7 @@ a:visited {
 
 }
 #slide2 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -179,14 +179,14 @@ a:visited {
 
 }
 #division1 h1 {
-	font-size: 2.8em;
+	/*font-size: 2.8em;*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#3C3E40;
 	font-weight: 600;
 }
 #division1 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #3C3E40;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -212,14 +212,14 @@ a:visited {
 	text-align:justify;
 }
 #slide3 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#3a3d3c;
 	font-weight: 700;
 }
 #slide3 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #3a3d3c;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -247,7 +247,7 @@ a:visited {
 	font-weight: 600;
 }
 #division2 h2 {
-	font-size: 2em;
+	/*font-size: 2em;*/
 	color: #3C3E40;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -268,14 +268,14 @@ a:visited {
 	padding: 50px 0 0px 0;
 }
 #slide4 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#2c2d2f;
 	font-weight: 700;
 }
 #slide4 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #2c2d2f;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -285,7 +285,7 @@ a:visited {
 	background-color:#bde2df;
 	color:#ffffff;
 	text-align:center;
-	font-size: 2em;
+	/*font-size: 2em;*/
 	font-weight: 400;
 }
 
@@ -304,14 +304,14 @@ a:visited {
 
 }
 #slide5 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide5 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -332,14 +332,14 @@ a:visited {
 	padding: 50px 0 50px 0;
 }
 #slide6 h1 {
-	font-size: 3.7em;
+	/*font-size: 3.7em;*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide6 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -360,14 +360,14 @@ a:visited {
 	padding: 50px 0 50px 0;
 }
 #slide7 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide7 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -387,14 +387,14 @@ a:visited {
 	padding: 50px 0 50px 0;
 }
 #slide8 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide8 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -414,14 +414,14 @@ a:visited {
 	padding: 50px 0 50px 0;
 }
 #slide9 h1 {
-	font-size: 3.8em;
+	/*/*font-size: 3.8em;*/*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide9 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -440,14 +440,14 @@ a:visited {
 	padding: 65px 0 135px 0;
 }
 #division3 h1 {
-	font-size: 2.8em;
+	/*font-size: 2.8em;*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#3C3E40;
 	font-weight: 600;
 }
 #division3 h2 {
-	font-size: 2em;
+	/*/*font-size: 2em;*/*/
 	color: #3C3E40;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -467,14 +467,14 @@ a:visited {
 	padding: 50px 0 20px 0;
 }
 #slide10 h1 {
-	font-size: 3.8em;
+	/*font-size: 3.8em;*/
 	letter-spacing: -3px;
 	line-height: 0px;
 	color:#ffffff;
 	font-weight: 700;
 }
 #slide10 h2 {
-	font-size: 2em;
+	/*font-size: 2em;*/
 	color: #ffffff;
 	line-height: 0px;
 	padding-bottom:20px;
@@ -678,5 +678,26 @@ a:visited {
        height:180px;
 	   resize:none;
 }
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing h3 {
+  font-weight: normal;
+	color: black;
+}
+.marketing .col-lg-4 p{
+  margin: 0;
+}
+
+h2{
+	color: black;
+}
+
 
 /* End Contact Form */
