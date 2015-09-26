@@ -52,7 +52,7 @@ a:visited {
 	margin: 0;
 }
 .menu ul{
-	padding: 0px 0px 0px 30px;
+	padding: 0;
 }
 .menu ul li a{
 	color: black;
@@ -698,6 +698,5 @@ a:visited {
 h2{
 	color: black;
 }
-
 
 /* End Contact Form */
